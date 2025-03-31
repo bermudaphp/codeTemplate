@@ -2,7 +2,7 @@
 
 namespace Bermuda\CodeTemplate;
 
-use Bermuda\CodeTemplate\types\Types;
+use Bermuda\CodeTemplate\Types\Types;
 
 class FunctionArgumentTemplate implements TemplateInterface
 {
