@@ -1,5 +1,5 @@
 {
-  "name": "bermudaphp/codeTemplate",
+  "name": "bermudaphp/codetemplate",
   "license": "MIT",
   "autoload": {
     "psr-4": {
