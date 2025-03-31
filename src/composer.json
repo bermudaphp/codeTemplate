@@ -1,0 +1,17 @@
+{
+  "name": "bermudaphp/codeTemplate",
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Bermuda\\CodeTemplate\\": "src/",
+      "Bermuda\\CodeTemplate\\Module\\": "src/module/",
+      "Bermuda\\CodeTemplate\\Property\\": "src/property/",
+      "Bermuda\\CodeTemplate\\Types\\": "src/types/",
+    }
+  },
+  "require": {
+    "php": "^8.1",
+    "bermudaphp/stringy": "^1.0.2",
+    "bermudaphp/arrayable": "^1.1"
+  }
+}
