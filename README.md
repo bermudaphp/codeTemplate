@@ -1,4 +1,4 @@
 # Install
 ```bash
-composer require bermudaphp/codeTemplate
+composer require bermudaphp/codetemplate
 ````
