@@ -3,7 +3,7 @@
 namespace Bermuda\CodeTemplate;
 
 use Bermuda\CodeTemplate\Property\PropertyTemplate;
-use Bermuda\CodeTemplate\types\Types;
+use Bermuda\CodeTemplate\Types\Types;
 
 class ClassMethodTemplate implements TemplateInterface
 {
