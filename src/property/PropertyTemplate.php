@@ -5,7 +5,7 @@ namespace Bermuda\CodeTemplate\Property;
 use Bermuda\Stdlib\StrWrp;
 use Bermuda\CodeTemplate\DefaultValueTemplate;
 use Bermuda\CodeTemplate\TemplateInterface;
-use Bermuda\CodeTemplate\types\Types;
+use Bermuda\CodeTemplate\Types\Types;
 use Bermuda\CodeTemplate\Visibility;
 
 class PropertyTemplate implements TemplateInterface
